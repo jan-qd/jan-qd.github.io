@@ -82,6 +82,32 @@ https://tmtv00.zhku.tk//hls/mydy2.m3u8
 https://tmtv00.zhku.tk//hls/tyjd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",天映经典(第2声道)
 https://tmtv00.zhku.tk//hls/tyjd2.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="纪录频道",CCTV-9高清
+https://tmtv00.zhku.tk//hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视高清",CCTV-10高清
+https://tmtv00.zhku.tk//hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="纪录频道",Discovery
+https://tmtv00.zhku.tk//hls/discovery.m3u8
+#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="纪录频道",Discovery科学
+https://tmtv00.zhku.tk//hls/discoverysci.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="纪录频道",动物星球
+https://tmtv00.zhku.tk//hls/animal.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="纪录频道",动物星球(第2声道)
+https://tmtv00.zhku.tk//hls/animal2.m3u8
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="纪录频道",BBC Earth
+https://tmtv00.zhku.tk//hls/bbcearth.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",Love Nature 4K
+https://tmtv00.zhku.tk//hls/ln4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",史密森频道
+https://tmtv00.zhku.tk//hls/smithsonian.m3u8
+#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="纪录频道",BBC Lifestyle
+https://tmtv00.zhku.tk//hls/bbclifestyle.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="纪录频道",国家地理
+https://tmtv00.zhku.tk//hls/natlgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",国家地理(第2声道)
+https://tmtv00.zhku.tk//hls/natlgeo2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",瞬间看地球
+https://tmtv00.zhku.tk//hls/earth.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视高清",CCTV-4K超高清
 https://tmtv00.zhku.tk//hls/cctv4k.m3u8
@@ -307,30 +333,7 @@ https://tmtv00.zhku.tk//hls/animax2.m3u8
 https://tmtv00.zhku.tk//hls/kid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="动漫频道",Hands Up Channel(第2声道)
 https://tmtv00.zhku.tk//hls/kid2.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="纪录频道",CCTV-9高清
-https://tmtv00.zhku.tk//hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="纪录频道",Discovery
-https://tmtv00.zhku.tk//hls/discovery.m3u8
-#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="纪录频道",Discovery科学
-https://tmtv00.zhku.tk//hls/discoverysci.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="纪录频道",动物星球
-https://tmtv00.zhku.tk//hls/animal.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="纪录频道",动物星球(第2声道)
-https://tmtv00.zhku.tk//hls/animal2.m3u8
-#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="纪录频道",BBC Earth
-https://tmtv00.zhku.tk//hls/bbcearth.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",Love Nature 4K
-https://tmtv00.zhku.tk//hls/ln4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",史密森频道
-https://tmtv00.zhku.tk//hls/smithsonian.m3u8
-#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="纪录频道",BBC Lifestyle
-https://tmtv00.zhku.tk//hls/bbclifestyle.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="纪录频道",国家地理
-https://tmtv00.zhku.tk//hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",国家地理(第2声道)
-https://tmtv00.zhku.tk//hls/natlgeo2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",瞬间看地球
-https://tmtv00.zhku.tk//hls/earth.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",NHK综合
 https://tmtv00.zhku.tk//hls/nhkg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",NHK综合(第2声道)
